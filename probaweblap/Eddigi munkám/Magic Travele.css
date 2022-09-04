@@ -1,0 +1,17 @@
+﻿body {
+    background-image: url(Wallpaper.jpeg);
+    background-repeat: no-repeat;
+    color: red;
+    font-size: 21.5px;
+}
+.card
+{
+float:left;
+}
+
+a {
+    color: #87ff00;
+    font-size: x-large;
+    border: 3px;
+    border-color: black;
+}
